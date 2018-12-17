@@ -10,3 +10,15 @@ body {
     font-size: 14px;
     color: navy;
     background-color: Powderblue
+  }
+#intro{
+  text-align: center;
+}
+#intro img{
+
+    margin: auto;
+    padding: auto;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: Orange;
+  }
