@@ -1,8 +1,12 @@
 p{
-  background-color: green
-  color: blue
+  background-color: Powderblue
+  color: Black
 }
 a{
 
-color: Orange
+color: Red
 }
+body {
+    font-size: 14px;
+    color: navy;
+    background-color: Powderblue
